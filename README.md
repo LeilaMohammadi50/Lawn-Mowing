@@ -17,7 +17,7 @@ This project is a database management system designed for a lawn mowing service 
 
 ## Installation
 1. Clone this repository:  
-   git clone https://github.com/LeilaMohammadi50/Lawn_Mowing.git
+   git clone https://github.com/LeilaMohammadi50
    
 2. Set up the SQL Server database by running the provided SQL scripts.
 
